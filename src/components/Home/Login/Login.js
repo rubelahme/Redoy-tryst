@@ -12,7 +12,7 @@ const Login = () => {
       Email: data.example,
       Password: data.exampleRequired,
     };
-    fetch("http://localhost:4000/email", {
+    fetch("https://peaceful-ocean-30460.herokuapp.com/", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(ItemId),
