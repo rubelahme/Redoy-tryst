@@ -1,0 +1,14 @@
+.verify1 {
+  color: #fff;
+  padding-top: 50px;
+  font-size: 25px;
+}
+.verify {
+  background-color: black;
+  width: 100%;
+  height: 100vh;
+}
+.verify2 {
+  padding-left: 7px;
+  color: green;
+}
